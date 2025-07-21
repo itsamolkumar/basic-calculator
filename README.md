@@ -15,7 +15,7 @@ A simple calculator app made with **HTML**, **CSS**, and **JavaScript**. It supp
 
 ## 📸 Preview
 
-![calculator-preview](https://via.placeholder.com/600x300?text=Calculator+Preview)
+![calculator-preview](/assets/Screenshot (15).png)
 
 ---
 
